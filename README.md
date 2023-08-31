@@ -89,8 +89,7 @@ I appreciate any suggestions and feedback you may have to improve the analysis a
 
 **Project Resources:**
 1. **Google Colab:** [Google Colab Link](https://colab.research.google.com/drive/1vrqW-IPVcm-6LbV43XDG1ZaoCHDTQ4RO?usp=sharing)
-2. **LinkedIn Profile:** [LinkedIn Profile Link](https://www.linkedin.com/in/farizalfitra/)
-3. **Tableau Public:** [Tableau Link](https://public.tableau.com/views/HRAnalyticsDashboard_16908071863670/Dashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+2. **Tableau Public:** [Tableau Link](https://public.tableau.com/views/HRAnalyticsDashboard_16908071863670/Dashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 The dataset used for this analysis is available in the project's GitHub repository. By sharing this project and its resources, I hope it can help anyone who might want to try it yourself or anyone who interested in People Analytics. Feel free to explore the Tableau dashboard and the dataset to gain deeper insights into the analysis.
 
