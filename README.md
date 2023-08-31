@@ -5,46 +5,46 @@ This project aims to analyze employee attrition data for a fictitious software c
 
 ## Dataset Description
 1. **Employee** (employee.csv)
-  - Employee ID:	A unique ID that identifies an employee, connects to the Performance Rating table
-  - FirstName:	First name of an employee
-  - LastName:	Last name / surname of an employee
-  - Gender:	Self-defined employee gender identity
-  - Age:	Current age of an employee
-  - BusinessTravel:	Frequency of business travel
-  - Department:	Most recent department that employee belongs/belonged to
-  - DistanceFromHome (KM):	Kilometer distance between an employee’s home and their office
-  - State:	State where the employee lives
-  - Ethincity:	Self-defined employee ethnicity
-  - Education:	A unique ID that identifies an employees education level, connects to the Education Level table
-  - EducationField:	Employee field of study
-  - JobRole:	Most recent department that employee belongs/belonged to
-  - MaritalStatus:	Current/latest employee marital status
-  - Salary:	Most recent record of employee salary
-  - StockOptionLevel:	The banding level for stock options that the employee has
-  - OverTime:	Indicates whether an employee is expected to work overtime in their role
-  - HireDate:	Date the employee joined the company
-  - Attrition:	Indicates whether an employee has left the organization
-  - YearsAtCompany:	Number of years since the employee joined the organization
-  - YearsInMostRecentRole:	Number of years the employee has been in their most recent role
-  - YearsSinceLastPromotion:	Number of years since the employee last got promoted
-  - YearsWithCurrManager:	Number of years the employee has been with their current manager
+    - Employee ID:	A unique ID that identifies an employee, connects to the Performance Rating table
+    - FirstName:	First name of an employee
+    - LastName:	Last name / surname of an employee
+    - Gender:	Self-defined employee gender identity
+    - Age:	Current age of an employee
+    - BusinessTravel:	Frequency of business travel
+    - Department:	Most recent department that employee belongs/belonged to
+    - DistanceFromHome (KM):	Kilometer distance between an employee’s home and their office
+    - State:	State where the employee lives
+    - Ethincity:	Self-defined employee ethnicity
+    - Education:	A unique ID that identifies an employees education level, connects to the Education Level table
+    - EducationField:	Employee field of study
+    - JobRole:	Most recent department that employee belongs/belonged to
+    - MaritalStatus:	Current/latest employee marital status
+    - Salary:	Most recent record of employee salary
+    - StockOptionLevel:	The banding level for stock options that the employee has
+    - OverTime:	Indicates whether an employee is expected to work overtime in their role
+    - HireDate:	Date the employee joined the company
+    - Attrition:	Indicates whether an employee has left the organization
+    - YearsAtCompany:	Number of years since the employee joined the organization
+    - YearsInMostRecentRole:	Number of years the employee has been in their most recent role
+    - YearsSinceLastPromotion:	Number of years since the employee last got promoted
+    - YearsWithCurrManager:	Number of years the employee has been with their current manager
 
 2. **Performance Rating** (performance_rating.csv)
-  - PerformanceID:	A unique id that identifies a performance review
-  - EmployeeID:	A unique ID that identifies an employee, connects to the Employee table
-  - ReviewDate:	Date an employees' review took place
-  - EnvironmentSatisfaction:	Rating for employees' satisfaction with their environment
-  - JobSatisfaction:	Rating for employees' satisfaction with their job role
-  - RelationshipSatisfaction:	Rating for employees' satisfaction with their relationships at work
-  - WorkLifeBalance:	Rating for employees' satisfaction with their relationships at work
-  - SelfRating:	Rating for employees' performance based on their own view
-  - ManagerRating:	Rating for employees' performance based on their manager’s view
-  - TrainingOpportunitiesWithinYear:	Number of training opportunities offered in the last 12 months
-  - TrainingOpportunitiesTaken:	Number of training opportunities taken
+    - PerformanceID:	A unique id that identifies a performance review
+    - EmployeeID:	A unique ID that identifies an employee, connects to the Employee table
+    - ReviewDate:	Date an employees' review took place
+    - EnvironmentSatisfaction:	Rating for employees' satisfaction with their environment
+    - JobSatisfaction:	Rating for employees' satisfaction with their job role
+    - RelationshipSatisfaction:	Rating for employees' satisfaction with their relationships at work
+    - WorkLifeBalance:	Rating for employees' satisfaction with their relationships at work
+    - SelfRating:	Rating for employees' performance based on their own view
+    - ManagerRating:	Rating for employees' performance based on their manager’s view
+    - TrainingOpportunitiesWithinYear:	Number of training opportunities offered in the last 12 months
+    - TrainingOpportunitiesTaken:	Number of training opportunities taken
 
 3. **Education Level** (education_level.csv)
-  - Education Level ID:	A unique id that identifies a education level
-  - Education Level:	A unique ID that identifies an employee, connects to the Employee table
+    - Education Level ID:	A unique id that identifies a education level
+    - Education Level:	A unique ID that identifies an employee, connects to the Employee table
 
 ## Project Steps:
 
